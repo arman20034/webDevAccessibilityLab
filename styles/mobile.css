@@ -15,7 +15,7 @@ footer {
   text-align: center;
 }
 header {
-  background-color: #263248;
+  background-color: #676e7c;
 }
 header h1 {
   margin: 0;
@@ -48,9 +48,10 @@ section img {
   height: auto;
 }
 .left-float {
-  float: left;
+  float: left; alt:"LeftFLoat";
   padding: 0 15px 15px 0;
   width: 50%;
+
 }
 input[type="text"],
 input[type="email"] {
