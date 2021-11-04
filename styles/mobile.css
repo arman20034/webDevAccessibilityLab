@@ -6,7 +6,7 @@ body {
 }
 #container {
   width: 100%;
-  color: #ccc;
+  color: rgb(8, 7, 7);
 }
 #content,
 footer {
@@ -14,7 +14,7 @@ footer {
 }
 #logo {
   text-align: center;
-  color: #fff;
+  color: rgb(2, 1, 1);
 }
 header {
   background-color: #676e7c;
